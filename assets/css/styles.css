@@ -111,7 +111,7 @@ nav a:hover {
     justify-content: flex-start;
     align-items: center;
     padding: 2rem 1rem;
-    background-image: url("/assets/images/hero-image.jpg");
+    background-image: url("hero-image.jpg");
     background-size: cover; 
     background-position: center;
     background-repeat: no-repeat;
