@@ -449,7 +449,7 @@ nav a:hover {
     justify-content: center;
     gap: 15px;
 }
-.footer-links {
+.footer-link {
     display: grid;
     grid-template-rows: auto auto auto;
     justify-content: center;
